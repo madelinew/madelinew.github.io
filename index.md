@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Madeline Warndorf
-description: Benjamin Harvey is an Adjunct Professor at The George Washington University. He teaches a Data Analytis Introduction and Practicum course.
+description: Madeline Warndorf is an Adjunct Professor at The George Washington University. He teaches a Data Analytis Introduction and Practicum course.
 keywords: statistics, data analytics
 ---
 
