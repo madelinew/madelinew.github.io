@@ -34,7 +34,7 @@ description: Maddie Warndorf's assignments
 
 Results | Repository
 ---|---
-[assignment1 results]()| [assignment1 repositiory]()
+[assignment1 results](https://github.com/madelinew/-asssignments_labs-/blob/master/EMSE6992_Assignments/MMWHW1.ipynb)| [assignment1 repositiory](https://github.com/madelinew/-asssignments_labs-/tree/master/EMSE6992_Assignments)
 
 ---
 
