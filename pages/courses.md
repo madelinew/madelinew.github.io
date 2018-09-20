@@ -1,6 +1,6 @@
 ---
 layout: page
-title: courses
+title: Courses
 description: Student's Courses
 ---
 
@@ -18,12 +18,18 @@ description: Student's Courses
 
 ### <a name="current"></a>Current courses
 
-#### [Data Analytics Introduction and Practicum](http://bsharvey.github.io) (EMSE 6992; Fall, 2017)
+#### [Data Analytics Introduction and Practicum](http://bsharvey.github.io) (EMSE 6992; Fall, 2018)
 
 - [Site](https://bsharvey.github.io/)
-- [My Portfolio](https://username.github.io/)
+- [My Portfolio](https://madelinew.github.io/)
 - [Assignments](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Assignments)
 - [Labs](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs)
+
+#### [Data Analysis for Engineers and Scientists](https://www2.seas.gwu.edu/~dorpjr/EMSE271/Coursefiles.html) (EMSE 6765; Fall, 2018)
+
+#### [Programming for Analytics](http://www2.seas.gwu.edu/~bhagiweb/emse6574/index.html) (EMSE 6574; Fall, 2018)
+
+- [Assignments](https://github.com/madelinew/EMSE6574ProgrammingAnalytics)
 
 ---
 
@@ -37,4 +43,3 @@ description: Student's Courses
 ---
 
 ### <a name="old"></a>Former courses
-
