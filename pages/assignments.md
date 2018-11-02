@@ -34,7 +34,7 @@ description: Maddie Warndorf's assignments
 
 Results | Repository
 ---|---
-[assignment1 results](https://github.com/madelinew/-assignments_labs-/blob/master/EMSE6992_Assignments/MMWHW1.ipynb)| [assignment1 repositiory](https://github.com/madelinew/-assignments_labs-/tree/master/EMSE6992_Assignments)
+[assignment1 results](https://github.com/madelinew/-assignments_labs-/blob/master/EMSE6992_Assignments/MMWHW1.ipynb)| [assignment1 repository](https://github.com/madelinew/-assignments_labs-/tree/master/EMSE6992_Assignments)
 
 ---
 
@@ -46,15 +46,15 @@ Results | Repository
 {Add description of example an assignment here}
 
 
-##### <a name="statisticalanalysis"></a>statistic alanalysis
+##### <a name="statisticalanalysis"></a>statistic analysis
 * [Lab: Bias, Variance, Cross-Validation](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab5/Lab5.ipynb)
 * [Lab: Bayes, Linear Regression, and Metropolis Sampling](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs/lab6)
 
 {Add description of example an assignment here}
 
-| Results                | Repository                 |
-| ---------------------- |:--------------------------:|
-| [assignment2 results]()| [assignment2 repositiory]()|
+Results | Repository                 
+--- |---
+[assignment2 results](https://github.com/madelinew/-assignments_labs-/blob/master/EMSE6992_Assignments/MMWHW2.ipynb)| [assignment2 repository](https://github.com/madelinew/-assignments_labs-/tree/master/EMSE6992_Assignments)
 
 ---
 
