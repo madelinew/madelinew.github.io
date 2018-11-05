@@ -8,7 +8,7 @@ keywords: statistics, data analytics
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/madelinewcv.pdf">cv</a></li>
           <li><a href="https://github.com/madelinew">github</a></li>
           <li><a href="http://kbroman.org/blog">blog</a></li>
           <li><a href="https://www.linkedin.com/in/maddie-warndorf-2b1084109/">LinkedIn</a></li>
@@ -21,8 +21,8 @@ keywords: statistics, data analytics
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="pages/publpics/iplotCorr.html">
-        <img src="assets/publpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+    <a href="pages/publpics/airlinearrivals.html">
+        <img src="assets/publpics/airlinearrivals.png" alt="Tableau Trend Line example" title="Tableau Trend Line Example"/>
     </a>
   </td>
   <td class="right">
