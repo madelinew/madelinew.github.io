@@ -1,13 +1,13 @@
 ---
 layout: page
-title: publications
-description: Ben Harvey's publications
+title: previous projects
+description: Madeline's Previous Projects
 ---
 
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#book">book</a></li>
+            <li><a href="#undergraduate">undergraduate</a></li>
             <li><a href="#articles">articles</a></li>
             <li><a href="#conferences">conferences</a></li>
             <li><a href="#editorials">editorials</a></li>
@@ -58,5 +58,3 @@ description: Ben Harvey's publications
 #### <a name="thesis"></a>dissertation
 
 ---
-
-
