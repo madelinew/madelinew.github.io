@@ -36,4 +36,6 @@ Warndorf M, Husseini C, Almohammed M, Budnick D (2017) Washington DC Transit Dat
 * [Thesis](../../assets/thesis.pdf)
 
 This thesis presents the analysis conducted on the National Highway Traffic Safety Administration (NHTSA) Fatal Accident Report System (FARS) data collected nationwide between 2007 and 2015 to determine if there was a decrease in fatal car accidents involving distracted driving in relation to changes in technology, laws, and social awareness. The purpose of this research is to determine if the data supports the thesis of the overall vehicle safety improvements and the efforts to prevent fatal accidents caused by cell phone usage decreased the number of fatal accidents as well as present the evidence in multiple useful and graphical forms.
+
+
 ---
