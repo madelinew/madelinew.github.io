@@ -47,7 +47,7 @@ keywords: statistics, data analytics
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="morefigs.html">see more figures</a></li>
+          
       </ul>
   </div>
 </div>
