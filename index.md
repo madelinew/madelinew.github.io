@@ -22,7 +22,7 @@ keywords: statistics, data analytics
 <tr>
   <td class="left">
     <a href="pages/publpics/airlinearrivals.html">
-        <img src="assets/publpics/airlinearrivals.png" alt="Tableau Trend Line example" title="Tableau Trend Line Example"/>
+        <img src="assets/publpics/airlinearrivalmsc325.png" alt="Tableau Trend Line example" title="Tableau Trend Line Example"/>
     </a>
   </td>
   <td class="right">
