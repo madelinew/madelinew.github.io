@@ -8,53 +8,21 @@ description: Madeline's Previous Projects
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="#undergraduate">undergraduate</a></li>
-            <li><a href="#articles">articles</a></li>
-            <li><a href="#conferences">conferences</a></li>
-            <li><a href="#editorials">editorials</a></li>
-            <li><a href="#letters">letters</a></li>
-            <li><a href="#chapters">chapters</a></li>
-            <li><a href="#techreports">tech reports</a></li>
-            <li><a href="#thesis">dissertation</a></li>
+            <li><a href="#thesis">honorsthesis</a></li>
         </ul>
     </div>
 </div>
 
 
-#### <a name="book"></a>book
+#### <a name="undergraduate"></a>Undergraduate Work
+##### <a name="airlineanalysis"></a>Airline Analysis
+* [Analysis of the percentage of on-time airline arrivals in the United States.](https://github.com/madelinew/MSC325Project)
 
-
----
-
-#### <a name="articles"></a>journal articles
-
----
-
-
-#### <a name="conferences"></a>conferences
+{Warndorf M, Alavid N, Hailemariam R (2018) Analysis of the percentage of on-time airline arrivals in the United States. Project was done for Marymount University's Data Analytics (MSC 325)}
 
 ---
 
 
-#### <a name="editorials"></a>editorials
-
----
-
-
-#### <a name="letters"></a>letters
-
----
-
-
-#### <a name="chapters"></a>proceedings and book chapters
-
----
-
-
-#### <a name="techreports"></a>technical reports
-
----
-
-
-#### <a name="thesis"></a>dissertation
+#### <a name="thesis"></a>Honor's Thesis
 
 ---
