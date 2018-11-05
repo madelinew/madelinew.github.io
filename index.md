@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Madeline Warndorf
-description: Madeline Warndorf is an Adjunct Professor at The George Washington University. He teaches a Data Analytis Introduction and Practicum course.
+description: Madeline Warndorf is a graduate student at George Washington University obtaining her MS in Data Analytics. She currently works at Black Cape, Inc. as a Sales and Marketing Associate.
 keywords: statistics, data analytics
 ---
 
