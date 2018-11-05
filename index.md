@@ -36,7 +36,7 @@ keywords: statistics, data analytics
         <img src="assets/publpics/samplemixups_fig7.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
     </a>
   </td>
-  <td class="right">
+  <td class="middle">
     <a href="pages/publpics/thesis.html">
         <img src="assets/publpics/Fordgraph.jpeg" alt="Warndorf (2018) Fig 5" title="Warndorf (2018) Fig 5"/>
     </a>
