@@ -26,9 +26,8 @@ keywords: statistics, data analytics
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/tian2016_fig4.html">
-        <img src="assets/publpics/tian2016_fig4.png" alt="Tian et
-        al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
+    <a href="pages/publpics/transitanalysis.html">
+        <img src="assets/publpics/transitdash.png" alt="Transit data Dashboard" title="Warndorf et al. (2017) Dashboard"/>
     </a>
   </td>
 </tr>
