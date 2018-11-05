@@ -7,7 +7,7 @@ title: Washington DC Transit Analysis
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="airlinearrivals.html">prev</a></li>
-          <li><a href="xchr_fig2.html">next</a></li>
+          <li><a href="thesis.html">next</a></li>
       </ul>
   </div>
 </div>

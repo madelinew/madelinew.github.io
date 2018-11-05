@@ -37,8 +37,8 @@ keywords: statistics, data analytics
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/isletc6_fig4.html">
-        <img src="assets/publpics/isletc6_fig4.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
+    <a href="pages/publpics/thesis.html">
+        <img src="assets/publpics/Fordgraph.jpeg" alt="Warndorf (2018) Fig 5" title="Warndorf (2018) Fig 5"/>
     </a>
   </td>
 </tr>
@@ -47,7 +47,7 @@ keywords: statistics, data analytics
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          
+
       </ul>
   </div>
 </div>
