@@ -72,9 +72,9 @@ Results | Repository
 {Add description of example an assignment here}
 
 
-| Results                | Repository                 |
-| ---------------------- |:--------------------------:|
-| [assignment3 results]()| [assignment3 repositiory]()|
+Results | Repository                 
+--- |---
+ [assignment3 results](https://github.com/madelinew/-assignments_labs-/blob/master/EMSE6992_Assignments/MMWHW3.ipynb)| [assignment3 repository](https://github.com/madelinew/-assignments_labs-/tree/master/EMSE6992_Assignments)
 
 ---
 
