@@ -2,7 +2,7 @@ code {
   padding: 0;
   font-size: 90%;
   color: black;
-  background-color: #f0ffff;
+  background-color: #fff68f;
   border: 0px solid white;
 }
 
@@ -15,8 +15,8 @@ a {
 }
 
 a:hover {
-    color: 	#483d8b;
-    background-color: #DEE0FF;
+    color: 	#DB7093;
+    background-color: #fbf0f4;
     text-decoration: none;
 }
 
@@ -28,7 +28,7 @@ a:hover img {
     color: 	#483d8b;
     background-color: #DEE0FF;
     text-decoration: none;
-    border: solid 2px #DEE0FF;
+    border: solid 0.5px #DEE0FF;
 }
 
 p.center {
