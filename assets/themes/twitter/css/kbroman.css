@@ -7,28 +7,28 @@ code {
 }
 
 a code {
-    color: #5A5096;
+    color: yellow;
 }
 
 a {
-    color: 	#483d8b;
+    color: 	#DB7093;
 }
 
 a:hover {
-    color: 	#DB7093;
+    color: 	#CB3365;
     background-color: #fbf0f4;
     text-decoration: none;
 }
 
 a img {
-    border: solid 2px black;
+    border: solid 0.5px black;
 }
 
 a:hover img {
     color: 	#483d8b;
     background-color: #DEE0FF;
     text-decoration: none;
-    border: solid 0.5px #DEE0FF;
+    border: solid 0.5px #58FFFF;
 }
 
 p.center {

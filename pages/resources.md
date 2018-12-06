@@ -17,7 +17,7 @@ description: Madeline Warndorf's assignments
 
 ## <a name="Data"></a>Data
 #### <a name="NHTSA Fatal Accident Report System Data"></a>[fars.nhtsa.dot.gov](https://www-fars.nhtsa.dot.gov/QueryTool/QuerySection/SelectYear.aspx)
-{This is the National Highway Transportation Safety Association's Fatal Accident Report System's database query. This data was used for the final project in EMSE 6992.}
+This is the National Highway Transportation Safety Association's Fatal Accident Report System's database query. This data was used for the final project in EMSE 6992.
 
 
 
