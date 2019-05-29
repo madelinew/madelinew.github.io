@@ -8,7 +8,7 @@ keywords: statistics, data analytics
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/madelinewcv.pdf">cv</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/madelinewcv2019.pdf">cv</a></li>
           <li><a href="https://github.com/madelinew">github</a></li>
           <li><a href="https://www.linkedin.com/in/maddie-warndorf-2b1084109/">LinkedIn</a></li>
       </ul>
