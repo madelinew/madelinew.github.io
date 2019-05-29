@@ -21,6 +21,6 @@ Madeline Warndorf has conducted independent research from 2016-2018 for her Hono
 
 
 #### <a name="cvandresume"></a>CV and Resume
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/madelinewcv.pdf)
+[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/madelinewcv2019.pdf)
 
 ---
