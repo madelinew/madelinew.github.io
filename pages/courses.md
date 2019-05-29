@@ -17,11 +17,11 @@ description: Student's Courses
 
 
 ### <a name="current"></a>Current courses
-#### [Visualization of Complex Data] (DATS 6401; Fall, 2019)
+#### [Visualization of Complex Data](http://bulletin.gwu.edu/courses/emse/) (DATS 6401; Fall, 2019)
 
-#### [Data-Driven Policy] (EMSE 6577; Fall, 2019)
+#### [Data-Driven Policy](http://bulletin.gwu.edu/courses/emse/) (EMSE 6577; Fall, 2019)
 
-#### [Applied Optimization Modeling] (EMSE 6710; Fall, 2019)
+#### [Applied Optimization Modeling](http://bulletin.gwu.edu/courses/emse/) (EMSE 6710; Fall, 2019)
 
 ---
 
@@ -36,15 +36,15 @@ description: Student's Courses
 
 ### <a name="old"></a>Former courses
 
-#### [Database Management for Data Analytics] (EMSE 6586; Spring, 2019)
+#### [Database Management for Data Analytics](http://bulletin.gwu.edu/courses/emse/) (EMSE 6586; Spring, 2019)
 
 - [Final Project](https://github.com/madelinew/DatabaseWork)
 
-#### [Machine Learning for Analytics] (EMSE 6992; Spring, 2019)
+#### [Machine Learning for Analytics](http://bulletin.gwu.edu/courses/emse/) (EMSE 6992; Spring, 2019)
 
 - [Final Project](https://github.com/madelinew/EMSE6992_Machine_Learning)
 
-#### [Introduction to Big Data & Analytics] (CSCI 6444; Spring, 2019)
+#### [Introduction to Big Data & Analytics](http://bulletin.gwu.edu/courses/emse/) (CSCI 6444; Spring, 2019)
 
 #### [Data Analytics Introduction and Practicum](http://bsharvey.github.io) (EMSE 6992; Fall, 2018)
 
